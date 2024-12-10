@@ -101,6 +101,7 @@ In the osTicket browser window, enter the required details to set up osTicket. F
 
 osTicket Installed. 
 
+osTicket is now successfully installed and ready to use. Through this lab, I explored how ticketing systems function and how to manage and resolve tickets effectively. In IT Support, working collaboratively with a team to address IT-related issues often involves using a ticketing system. This lab served as a hands-on experience to set up a ticketing system from scratch, providing a foundation for the work I aim to undertake in the future.
 
 
 
@@ -132,20 +133,5 @@ osTicket Installed.
 
 
 
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
